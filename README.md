@@ -1,3 +1,4 @@
+ HEAD
 # Retail Sales Exploratory Data Analysis
 
 An exploratory analysis of a synthetic (AI-generated, practice) retail sales dataset for an eight-store chain in Rwanda, covering January 2023 to December 2024. All amounts are in Rwandan francs (RWF).
@@ -65,3 +66,6 @@ Keep `retail_sales_eda.csv` in the same folder as the notebook.
 ## Limitations
 
 The data is synthetic, so patterns reflect how it was generated rather than real customer behaviour. The analysis is descriptive only (no significance tests or forecasting).
+
+# retail-sales-EDA
+ 9be480b03c1059625d3bb7e42ae29af3c8f70bd8
